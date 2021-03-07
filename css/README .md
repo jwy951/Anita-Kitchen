@@ -21,4 +21,4 @@ To access this project on your local files, you can clone it using these steps
 ### Live Site
 View [live](https://jwy951.github.io/Anita-Kitchen/)
 ### Licence
-This project is under the  [MIT](LICENSE) licence
+This project is under the  [MIT](LICENSE) licences
